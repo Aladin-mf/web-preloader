@@ -62,4 +62,18 @@
             transform: rotate(360deg);
   }
 }
+ footer{
+   text-align: center;
+   width: 100%;
+   height: 2rem;
+   line-height: 2rem;
+   background-color: rgb(66, 96, 124);
+   color: white;
+   margin-top: auto;
+ }
+ body{
+   display: flex;
+   flex-direction: column;
+height: 100vh;
+ }
 /*# sourceMappingURL=hi.css.map */
